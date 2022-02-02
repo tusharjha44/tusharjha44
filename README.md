@@ -1,5 +1,5 @@
 ### Hi there, I'm Tushar Jha 👋
-## I'm a Student, Developer and YouTuber for fun!!
+## I'm a Student, Developer, UX/Graphic Designer and YouTuber for fun!!
 - 🌱 I’m currently learning more about Android development.
 - 👯 I’m looking to collaborate with other content creators and progrmmers.
 - 🥅 2022 Goals: Contribute more to Open Source projects and also to make some interesting new Projects. 
