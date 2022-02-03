@@ -1,3 +1,5 @@
+ <img align='right' src="https://media.giphy.com/media/Yl5VGKskuiKrv6R2pN/giphy.gif" width="250"> 
+
 ### Hi there, I'm Tushar Jha 👋
 ## I'm a Student, Developer, UX/Graphic Designer and YouTuber for fun!!
 - 🌱 I’m currently learning more about Android development.
