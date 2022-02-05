@@ -29,9 +29,8 @@
 
 ---
 
-  <a href="https://github.com/tusharjha44">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tusharjha44&theme=light&hide_langs_below=1" />
-</a>
+<img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=tusharjha44&layout=compact&theme=radical" width="48%"/>
+
 <br/>
 <br/>
 <a href="https://github.com/tusharjha44">
